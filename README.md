@@ -16,6 +16,6 @@
 
 </br>
 
-![jungpaeng github stats](https://github-readme-stats.vercel.app/api?username=yeinn&show_icons=true&theme=radical&count_private=true&custom_title=Github_Stats)
+![jungpaeng github stats](https://github-readme-stats.vercel.app/api?username=gom-guma&show_icons=true&theme=radical&count_private=true&custom_title=Github_Stats)
 
 </div>
